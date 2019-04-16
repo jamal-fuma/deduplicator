@@ -1,0 +1,3 @@
+[submodule "build-aux"]
+	path = build-aux
+	url = https://github.com/jamal-fuma/fuma_build_aux.git
